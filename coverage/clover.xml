@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1596182181358" clover="3.2.0">
+  <project timestamp="1596182181358" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6" elements="19" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+    <file name="greet.ts" path="C:\work\jest-demo\src\greet.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="mylib.ts" path="C:\work\jest-demo\src\mylib.ts">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>
